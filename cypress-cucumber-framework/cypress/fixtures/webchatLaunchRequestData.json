@@ -1,0 +1,11 @@
+{
+  "jsonRequest": {
+    "did": "f9cd1fec-58dc-4c04-b510-a464f5cc1892",
+    "uid": "3wab0gs",
+    "platform-id": "infinitelybeta_platform_20200626120954036-e6e37dbd5332a1d",
+    "id": "f9cd1fec-58dc-4c04-b510-a464f5cc1892",
+    "timestamp": "1612014021995",
+    "ln": "en-GB",
+    "e": "[{\"ts\":1612014020701,\"d\":{\"acid\":\"f252212d-8db1-4c67-bad7-27ce90cd1ce2\",\"s\":\"u\",\"b\":1},\"t\":\"i\"}]"
+  }
+}

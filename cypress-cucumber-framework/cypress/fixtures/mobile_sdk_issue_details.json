@@ -1,0 +1,12 @@
+{
+  "platformId":"infinitelybeta_platform_20200304105239922-3749a9bf736153b",
+  "sdkkey":"eacf3450af5ce9b5b2e87af3c659dde7",
+  "domain":"infinitelybeta.helpshift.com",
+  "requestURI":"/api/lib/3/preissues/",
+  "requestMethod": "POST",
+  "greeting":"Hi, How can I help",
+  "deviceLanguage":"en",
+  "userMessage":"There is issue",
+  "sm":"{\"ia\": true, \"rs\": true, \"ia\": true,\"atai_v2\": true, \"fp\": true, \"cb\": true, \"clc\": true}",
+  "isPrefilled": "False"
+}
